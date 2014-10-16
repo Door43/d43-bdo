@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bdo:home|Door43 (bdo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bdo|d43-bdo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bdo/archive/master.zip|d43-bdo.zip]]
+
+**Recent Changes**
+{{changes>ns = bdo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bdo|Ethnologue data]]
+
